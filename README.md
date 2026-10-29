@@ -64,7 +64,7 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Zucks is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
+Zucks operates a smartphone advertising platform connecting advertisers and publishers. It offers an ad network and affiliate services, providing tools for media and app developers to monetize their content. The company emphasizes performance-driven mobile ads and supports multiple languages (JP, EN, CN). It is part of CARTA ZERO Inc., focusing on innovative mobile ad solutions.
 
 **Areas:** Company
 
@@ -72,15 +72,65 @@ Zucks is a company surfaced via the API Evangelist harvest backlog (source: new-
 
 Everything profiled for Zucks is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/zucks/](https://apis.io/providers/zucks/)** — or go straight to one of the APIs or properties below.
 
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Zucks Domain Security](https://apis.io/security/zucks/zucks-domain-security/)
+
 ## Where to find this API
 
 Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
 - [Website](https://zucks.co.jp/)
+- [GitHub](https://github.com/zucks)
 
 ## API Evangelist rating
 
-Not yet rated. See [apis.io/providers/zucks/](https://apis.io/providers/zucks/).
+**Kin Score 4.7** — minimal · rubric 0.25.0 · scored 2026-10-29
+
+| Facet | Score |
+|---|---|
+| Discoverability | 39.3 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 5.3 |
+| Developer ergonomics | 7.1 |
+| Access clarity | 0.0 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+
+**Regulatory alignment 5.9** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/zucks/](https://apis.io/providers/zucks/).
 
 ## How this profile is made
 
